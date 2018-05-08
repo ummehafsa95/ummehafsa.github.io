@@ -5,17 +5,12 @@
     text-align:right
     padding: 20px 0 20px 0;
 }
-.nav >li {
-  display: inline-black;
-  padding: 0 25px 0 25px;
-  font-size:12px;
-}
-.nav > li> a {
-  text-decoration: name;
-  color: #000000;
-}
 
-.nav > li > a;hover{
-  color; #cicici
+.cover {
+  width:100%;
+  display:black;
 }
-  
+.cover > .cover-image{
+  width: 100%;
+  display: black;
+}
